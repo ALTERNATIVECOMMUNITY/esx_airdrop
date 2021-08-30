@@ -22,7 +22,6 @@ CreateThread(function()
                     end
                 end
             end
-            gamereita = 0
         end
         while _airdrop_started do
           Wait(0)
